@@ -1,0 +1,15 @@
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\obj\Debug\net6.0\Example008_Magic.csproj.AssemblyReference.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\obj\Debug\net6.0\Example008_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\obj\Debug\net6.0\Example008_Magic.AssemblyInfoInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\obj\Debug\net6.0\Example008_Magic.AssemblyInfo.cs
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\obj\Debug\net6.0\Example008_Magic.csproj.CoreCompileInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\bin\Debug\net6.0\Example008_Magic.exe
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\bin\Debug\net6.0\Example008_Magic.deps.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\bin\Debug\net6.0\Example008_Magic.runtimeconfig.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\bin\Debug\net6.0\Example008_Magic.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\bin\Debug\net6.0\Example008_Magic.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\obj\Debug\net6.0\Example008_Magic.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\obj\Debug\net6.0\refint\Example008_Magic.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\obj\Debug\net6.0\Example008_Magic.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\obj\Debug\net6.0\Example008_Magic.genruntimeconfig.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example008_Magic\obj\Debug\net6.0\ref\Example008_Magic.dll
