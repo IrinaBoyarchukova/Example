@@ -1,0 +1,15 @@
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\obj\Debug\net6.0\Example006_IfELSe.csproj.AssemblyReference.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\obj\Debug\net6.0\Example006_IfELSe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\obj\Debug\net6.0\Example006_IfELSe.AssemblyInfoInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\obj\Debug\net6.0\Example006_IfELSe.AssemblyInfo.cs
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\obj\Debug\net6.0\Example006_IfELSe.csproj.CoreCompileInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\bin\Debug\net6.0\Example006_IfELSe.exe
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\bin\Debug\net6.0\Example006_IfELSe.deps.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\bin\Debug\net6.0\Example006_IfELSe.runtimeconfig.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\bin\Debug\net6.0\Example006_IfELSe.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\bin\Debug\net6.0\Example006_IfELSe.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\obj\Debug\net6.0\Example006_IfELSe.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\obj\Debug\net6.0\refint\Example006_IfELSe.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\obj\Debug\net6.0\Example006_IfELSe.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\obj\Debug\net6.0\Example006_IfELSe.genruntimeconfig.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example006_IfELSe\obj\Debug\net6.0\ref\Example006_IfELSe.dll
