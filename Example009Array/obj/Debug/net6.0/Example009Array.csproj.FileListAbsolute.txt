@@ -1,0 +1,5 @@
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example009Array\obj\Debug\net6.0\Example009Array.csproj.AssemblyReference.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example009Array\obj\Debug\net6.0\Example009Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example009Array\obj\Debug\net6.0\Example009Array.AssemblyInfoInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example009Array\obj\Debug\net6.0\Example009Array.AssemblyInfo.cs
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example009Array\obj\Debug\net6.0\Example009Array.csproj.CoreCompileInputs.cache
