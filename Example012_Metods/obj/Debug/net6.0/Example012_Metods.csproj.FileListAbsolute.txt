@@ -1,0 +1,15 @@
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\bin\Debug\net6.0\Example012_Metods.exe
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\bin\Debug\net6.0\Example012_Metods.deps.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\bin\Debug\net6.0\Example012_Metods.runtimeconfig.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\bin\Debug\net6.0\Example012_Metods.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\bin\Debug\net6.0\Example012_Metods.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\obj\Debug\net6.0\Example012_Metods.csproj.AssemblyReference.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\obj\Debug\net6.0\Example012_Metods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\obj\Debug\net6.0\Example012_Metods.AssemblyInfoInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\obj\Debug\net6.0\Example012_Metods.AssemblyInfo.cs
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\obj\Debug\net6.0\Example012_Metods.csproj.CoreCompileInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\obj\Debug\net6.0\Example012_Metods.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\obj\Debug\net6.0\refint\Example012_Metods.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\obj\Debug\net6.0\Example012_Metods.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\obj\Debug\net6.0\Example012_Metods.genruntimeconfig.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example012_Metods\obj\Debug\net6.0\ref\Example012_Metods.dll
