@@ -1,0 +1,15 @@
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\bin\Debug\net6.0\Example013_DoubleArray.exe
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\bin\Debug\net6.0\Example013_DoubleArray.deps.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\bin\Debug\net6.0\Example013_DoubleArray.runtimeconfig.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\bin\Debug\net6.0\Example013_DoubleArray.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\bin\Debug\net6.0\Example013_DoubleArray.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\obj\Debug\net6.0\Example013_DoubleArray.csproj.AssemblyReference.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\obj\Debug\net6.0\Example013_DoubleArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\obj\Debug\net6.0\Example013_DoubleArray.AssemblyInfoInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\obj\Debug\net6.0\Example013_DoubleArray.AssemblyInfo.cs
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\obj\Debug\net6.0\Example013_DoubleArray.csproj.CoreCompileInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\obj\Debug\net6.0\Example013_DoubleArray.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\obj\Debug\net6.0\refint\Example013_DoubleArray.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\obj\Debug\net6.0\Example013_DoubleArray.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\obj\Debug\net6.0\Example013_DoubleArray.genruntimeconfig.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example013_DoubleArray\obj\Debug\net6.0\ref\Example013_DoubleArray.dll
