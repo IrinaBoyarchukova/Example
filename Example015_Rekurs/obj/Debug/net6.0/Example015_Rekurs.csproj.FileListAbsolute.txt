@@ -1,0 +1,15 @@
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\bin\Debug\net6.0\Example015_Rekurs.exe
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\bin\Debug\net6.0\Example015_Rekurs.deps.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\bin\Debug\net6.0\Example015_Rekurs.runtimeconfig.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\bin\Debug\net6.0\Example015_Rekurs.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\bin\Debug\net6.0\Example015_Rekurs.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\obj\Debug\net6.0\Example015_Rekurs.csproj.AssemblyReference.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\obj\Debug\net6.0\Example015_Rekurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\obj\Debug\net6.0\Example015_Rekurs.AssemblyInfoInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\obj\Debug\net6.0\Example015_Rekurs.AssemblyInfo.cs
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\obj\Debug\net6.0\Example015_Rekurs.csproj.CoreCompileInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\obj\Debug\net6.0\Example015_Rekurs.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\obj\Debug\net6.0\refint\Example015_Rekurs.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\obj\Debug\net6.0\Example015_Rekurs.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\obj\Debug\net6.0\Example015_Rekurs.genruntimeconfig.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Example015_Rekurs\obj\Debug\net6.0\ref\Example015_Rekurs.dll
