@@ -1,0 +1,15 @@
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\bin\Debug\net6.0\Tupe_Metods.exe
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\bin\Debug\net6.0\Tupe_Metods.deps.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\bin\Debug\net6.0\Tupe_Metods.runtimeconfig.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\bin\Debug\net6.0\Tupe_Metods.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\bin\Debug\net6.0\Tupe_Metods.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\obj\Debug\net6.0\Tupe_Metods.csproj.AssemblyReference.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\obj\Debug\net6.0\Tupe_Metods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\obj\Debug\net6.0\Tupe_Metods.AssemblyInfoInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\obj\Debug\net6.0\Tupe_Metods.AssemblyInfo.cs
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\obj\Debug\net6.0\Tupe_Metods.csproj.CoreCompileInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\obj\Debug\net6.0\Tupe_Metods.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\obj\Debug\net6.0\refint\Tupe_Metods.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\obj\Debug\net6.0\Tupe_Metods.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\obj\Debug\net6.0\Tupe_Metods.genruntimeconfig.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Example-1\Tupe_Metods\obj\Debug\net6.0\ref\Tupe_Metods.dll
